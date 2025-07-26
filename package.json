@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://krish54491.github.io/Krish54491-chipmunk",
+  "homepage": "https://krish544.com/Krish54491-chipmunk",
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
